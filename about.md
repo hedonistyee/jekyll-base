@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-https://images.app.goo.gl/anUcHyAMDF1AG4od6
 
 Acknowledgement
 
