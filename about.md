@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://images.app.goo.gl/anUcHyAMDF1AG4od6" alt="">
+img src="https://images.app.goo.gl/anUcHyAMDF1AG4od6
 
 Acknowledgement
 
